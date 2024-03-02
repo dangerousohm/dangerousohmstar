@@ -1,1 +1,7 @@
 # dangerousohmstar
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x0F450b4AbebF27ec0228C50c9362c4A9EcDCb5fA'
+quorum: 1
